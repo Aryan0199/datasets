@@ -1,0 +1,250 @@
+Continent_Name,Three_Letter_Country_Code,Country_Name
+Asia,AFG,Afghanistan
+Europe,ALA,land Islands
+Europe,ALB,Albania
+Africa,DZA,Algeria
+Oceania,ASM,American Samoa
+Europe,AND,Andorra
+Africa,AGO,Angola
+Americas,AIA,Anguilla
+,ATA,Antarctica
+Americas,ATG,Antigua and Barbuda
+Americas,ARG,Argentina
+Asia,ARM,Armenia
+Americas,ABW,Aruba
+Oceania,AUS,Australia
+Europe,AUT,Austria
+Asia,AZE,Azerbaijan
+Americas,BHS,Bahamas
+Asia,BHR,Bahrain
+Asia,BGD,Bangladesh
+Americas,BRB,Barbados
+Europe,BLR,Belarus
+Europe,BEL,Belgium
+Americas,BLZ,Belize
+Africa,BEN,Benin
+Americas,BMU,Bermuda
+Asia,BTN,Bhutan
+Americas,BOL,Bolivia (Plurinational State of)
+Americas,BES,"Bonaire, Sint Eustatius and Saba"
+Europe,BIH,Bosnia and Herzegovina
+Africa,BWA,Botswana
+Americas,BVT,Bouvet Island
+Americas,BRA,Brazil
+Africa,IOT,British Indian Ocean Territory
+Asia,BRN,Brunei Darussalam
+Europe,BGR,Bulgaria
+Africa,BFA,Burkina Faso
+Africa,BDI,Burundi
+Africa,CPV,Cabo Verde
+Asia,KHM,Cambodia
+Africa,CMR,Cameroon
+Americas,CAN,Canada
+Americas,CYM,Cayman Islands
+Africa,CAF,Central African Republic
+Africa,TCD,Chad
+Americas,CHL,Chile
+Asia,CHN,China
+Oceania,CXR,Christmas Island
+Oceania,CCK,Cocos (Keeling) Islands
+Americas,COL,Colombia
+Africa,COM,Comoros
+Africa,COG,Congo
+Africa,COD,"Congo, Democratic Republic of the"
+Oceania,COK,Cook Islands
+Americas,CRI,Costa Rica
+Africa,CIV,C??te d'Ivoire
+Europe,HRV,Croatia
+Americas,CUB,Cuba
+Americas,CUW,Cura??ao
+Asia,CYP,Cyprus
+Europe,CZE,Czechia
+Europe,DNK,Denmark
+Africa,DJI,Djibouti
+Americas,DMA,Dominica
+Americas,DOM,Dominican Republic
+Americas,ECU,Ecuador
+Africa,EGY,Egypt
+Americas,SLV,El Salvador
+Africa,GNQ,Equatorial Guinea
+Africa,ERI,Eritrea
+Europe,EST,Estonia
+Africa,SWZ,Eswatini
+Africa,ETH,Ethiopia
+Americas,FLK,Falkland Islands (Malvinas)
+Europe,FRO,Faroe Islands
+Oceania,FJI,Fiji
+Europe,FIN,Finland
+Europe,FRA,France
+Americas,GUF,French Guiana
+Oceania,PYF,French Polynesia
+Africa,ATF,French Southern Territories
+Africa,GAB,Gabon
+Africa,GMB,Gambia
+Asia,GEO,Georgia
+Europe,DEU,Germany
+Africa,GHA,Ghana
+Europe,GIB,Gibraltar
+Europe,GRC,Greece
+Americas,GRL,Greenland
+Americas,GRD,Grenada
+Americas,GLP,Guadeloupe
+Oceania,GUM,Guam
+Americas,GTM,Guatemala
+Europe,GGY,Guernsey
+Africa,GIN,Guinea
+Africa,GNB,Guinea-Bissau
+Americas,GUY,Guyana
+Americas,HTI,Haiti
+Oceania,HMD,Heard Island and McDonald Islands
+Europe,VAT,Holy See
+Americas,HND,Honduras
+Asia,HKG,Hong Kong
+Europe,HUN,Hungary
+Europe,ISL,Iceland
+Asia,IND,India
+Asia,IDN,Indonesia
+Asia,IRN,Iran (Islamic Republic of)
+Asia,IRQ,Iraq
+Europe,IRL,Ireland
+Europe,IMN,Isle of Man
+Asia,ISR,Israel
+Europe,ITA,Italy
+Americas,JAM,Jamaica
+Asia,JPN,Japan
+Europe,JEY,Jersey
+Asia,JOR,Jordan
+Asia,KAZ,Kazakhstan
+Africa,KEN,Kenya
+Oceania,KIR,Kiribati
+Asia,PRK,Korea (Democratic People's Republic of)
+Asia,KOR,"Korea, Republic of"
+Asia,KWT,Kuwait
+Asia,KGZ,Kyrgyzstan
+Asia,LAO,Lao People's Democratic Republic
+Europe,LVA,Latvia
+Asia,LBN,Lebanon
+Africa,LSO,Lesotho
+Africa,LBR,Liberia
+Africa,LBY,Libya
+Europe,LIE,Liechtenstein
+Europe,LTU,Lithuania
+Europe,LUX,Luxembourg
+Asia,MAC,Macao
+Africa,MDG,Madagascar
+Africa,MWI,Malawi
+Asia,MYS,Malaysia
+Asia,MDV,Maldives
+Africa,MLI,Mali
+Europe,MLT,Malta
+Oceania,MHL,Marshall Islands
+Americas,MTQ,Martinique
+Africa,MRT,Mauritania
+Africa,MUS,Mauritius
+Africa,MYT,Mayotte
+Americas,MEX,Mexico
+Oceania,FSM,Micronesia (Federated States of)
+Europe,MDA,"Moldova, Republic of"
+Europe,MCO,Monaco
+Asia,MNG,Mongolia
+Europe,MNE,Montenegro
+Americas,MSR,Montserrat
+Africa,MAR,Morocco
+Africa,MOZ,Mozambique
+Asia,MMR,Myanmar
+Africa,NAM,Namibia
+Oceania,NRU,Nauru
+Asia,NPL,Nepal
+Europe,NLD,Netherlands
+Oceania,NCL,New Caledonia
+Oceania,NZL,New Zealand
+Americas,NIC,Nicaragua
+Africa,NER,Niger
+Africa,NGA,Nigeria
+Oceania,NIU,Niue
+Oceania,NFK,Norfolk Island
+Europe,MKD,North Macedonia
+Oceania,MNP,Northern Mariana Islands
+Europe,NOR,Norway
+Asia,OMN,Oman
+Asia,PAK,Pakistan
+Oceania,PLW,Palau
+Asia,PSE,"Palestine, State of"
+Americas,PAN,Panama
+Oceania,PNG,Papua New Guinea
+Americas,PRY,Paraguay
+Americas,PER,Peru
+Asia,PHL,Philippines
+Oceania,PCN,Pitcairn
+Europe,POL,Poland
+Europe,PRT,Portugal
+Americas,PRI,Puerto Rico
+Asia,QAT,Qatar
+Africa,REU,R??union
+Europe,ROU,Romania
+Europe,RUS,Russian Federation
+Africa,RWA,Rwanda
+Americas,BLM,Saint Barth??lemy
+Africa,SHN,"Saint Helena, Ascension and Tristan da Cunha"
+Americas,KNA,Saint Kitts and Nevis
+Americas,LCA,Saint Lucia
+Americas,MAF,Saint Martin (French part)
+Americas,SPM,Saint Pierre and Miquelon
+Americas,VCT,Saint Vincent and the Grenadines
+Oceania,WSM,Samoa
+Europe,SMR,San Marino
+Africa,STP,Sao Tome and Principe
+Asia,SAU,Saudi Arabia
+Africa,SEN,Senegal
+Europe,SRB,Serbia
+Africa,SYC,Seychelles
+Africa,SLE,Sierra Leone
+Asia,SGP,Singapore
+Americas,SXM,Sint Maarten (Dutch part)
+Europe,SVK,Slovakia
+Europe,SVN,Slovenia
+Oceania,SLB,Solomon Islands
+Africa,SOM,Somalia
+Africa,ZAF,South Africa
+Americas,SGS,South Georgia and the South Sandwich Islands
+Africa,SSD,South Sudan
+Europe,ESP,Spain
+Asia,LKA,Sri Lanka
+Africa,SDN,Sudan
+Americas,SUR,Suriname
+Europe,SJM,Svalbard and Jan Mayen
+Europe,SWE,Sweden
+Europe,CHE,Switzerland
+Asia,SYR,Syrian Arab Republic
+Asia,TWN,"Taiwan, Province of China"
+Asia,TJK,Tajikistan
+Africa,TZA,"Tanzania, United Republic of"
+Asia,THA,Thailand
+Asia,TLS,Timor-Leste
+Africa,TGO,Togo
+Oceania,TKL,Tokelau
+Oceania,TON,Tonga
+Americas,TTO,Trinidad and Tobago
+Africa,TUN,Tunisia
+Asia,TUR,Turkey
+Asia,TKM,Turkmenistan
+Americas,TCA,Turks and Caicos Islands
+Oceania,TUV,Tuvalu
+Africa,UGA,Uganda
+Europe,UKR,Ukraine
+Asia,ARE,United Arab Emirates
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland
+Americas,USA,United States of America
+Oceania,UMI,United States Minor Outlying Islands
+Americas,URY,Uruguay
+Asia,UZB,Uzbekistan
+Oceania,VUT,Vanuatu
+Americas,VEN,Venezuela (Bolivarian Republic of)
+Asia,VNM,Viet Nam
+Americas,VGB,Virgin Islands (British)
+Americas,VIR,Virgin Islands (U.S.)
+Oceania,WLF,Wallis and Futuna
+Africa,ESH,Western Sahara
+Asia,YEM,Yemen
+Africa,ZMB,Zambia
+Africa,ZWE,Zimbabwe
